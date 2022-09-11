@@ -1,6 +1,6 @@
 package com.company.liskov_1;
 
-public class Rectangle {
+public class Rectangle implements Shape{
 
 	private int width;
 	
@@ -26,7 +26,8 @@ public class Rectangle {
 	public void setHeight(int height) {
 		this.height = height;
 	}
-	
+
+	@Override
 	public int computeArea() {
 		return width * height;
 	}

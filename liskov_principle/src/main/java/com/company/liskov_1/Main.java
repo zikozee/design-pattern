@@ -12,7 +12,7 @@ public class Main {
 		
 		useRectangle(rectangle);
 		
-		useRectangle(square);
+//		useRectangle(square);  now this is no longer needed as we will provide our own implementation
 
 	}
 
