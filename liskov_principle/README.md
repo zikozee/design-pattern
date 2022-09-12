@@ -8,8 +8,8 @@
 - this principle is violated
 
 ## To RECTIFY,
-- we create am interface   **which we call shape**
-- this way rectangle and square implements shape
+- we create an interface   **which we call shape**
+- this way **rectangle** and **square** implements shape
 - this way the is not direct relationship between, rectangle and square
 
 ## to run pass -ea to the VM-OPTIONS
