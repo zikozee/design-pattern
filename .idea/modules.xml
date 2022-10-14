@@ -4,9 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DESIGN-PATTERN.iml" filepath="$PROJECT_DIR$/.idea/DESIGN-PATTERN.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface_segregation/interface_segregation.iml" filepath="$PROJECT_DIR$/interface_segregation/interface_segregation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/liskov_principle/liskov_principle.iml" filepath="$PROJECT_DIR$/liskov_principle/liskov_principle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" filepath="$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Single_Responsibility_Principle/single_responsibility_principle.iml" filepath="$PROJECT_DIR$/Single_Responsibility_Principle/single_responsibility_principle.iml" />
     </modules>
   </component>
 </project>
