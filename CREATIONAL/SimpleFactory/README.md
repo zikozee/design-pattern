@@ -4,6 +4,7 @@
 - Different from Factory Pattern
 - Used when we have more than one option when instantiating object and a simple logic is used to choose correct class
 - simply an argument is used to determine object to be instantiated
+- see **PostFactory class**
 
 ## Example
     - java.text.NumberFormat
